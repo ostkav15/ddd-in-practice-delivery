@@ -42,3 +42,5 @@ mvn clean compile
 
 Код распространяется под лицензией [MIT](./LICENSE).  
 © 2025 microarch.ru
+
+## Авторы
